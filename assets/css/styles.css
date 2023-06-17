@@ -248,7 +248,7 @@ img{
   justify-self: center;
 }
 .about__img img{
-  width: 300px;
+  width: 350px;
   border-radius: .5rem;
 }
 
@@ -428,7 +428,7 @@ img{
     text-align: initial;
   }
   .about__img img{
-    width: 350px;
+    width: 380px;
   }
   .work__container{
     grid-template-columns: repeat(3, 1fr);
